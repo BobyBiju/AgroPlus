@@ -1,16 +1,8 @@
-# findmydog
+# AGRO-PLUS
 
-A new Flutter project.
+![logo](assets/logo.png)
 
-## Getting Started
+> We the **TEAM EDISON** presents to you the app **AGRO-PLUS**. A platform where farmers can find out the disease of a crop by just taking a picture of the crop.
 
-This project is a starting point for a Flutter application.
+> We also provide you with a solution to cure the disease, the neccessary steps to be taken. We would be providing quality end-to-end support with the help of trained indivduals in this field.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
